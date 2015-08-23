@@ -1,0 +1,32 @@
+{% extends 'StudyAppStudyAppBundle::layout.html.twig' %}
+{% block stylesheet %}
+{{ parent() }}
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/studyappstudyapp/css/bootstrap-glyphicons.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/studyappstudyapp/css/commentlist.css') }}">
+{% endblock %}
+{% block javascript %}
+{{ parent() }}
+<script>
+ 	var totalPages = '{{ pages_total }}';
+ </script>	
+{% endblock %}
+{% block navbar %}
+<nav class="navbar navbar-fixed-top navbar-inverse">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand white" href="/">{% trans %}Simple Application Example{% endtrans %}</a>
+        </div>
+  <div id="navbar" class="collapse navbar-collapse">
+    <ul class="nav navbar-nav">
+      <li><a href="/profile">{% trans %}Change Profile{% endtrans %}</a></li>
+      <li><a href="#" id="menu-add-comment">{% trans %}Comment{% endtrans %}</a></li>
+      <li><a href="{{ path('logout') }}">{% trans %}Logout{% endtrans %}</a></li>
+    </ul>
+  </div><!-- /.nav-collapse -->
+</div><!-- /.container -->
+</nav><!-- /.navbar -->
+{% endblock %}
+{% block body %}
+{% include 'StudyAppCommentBundle:Default:list.html.twig' %}
+{% endblock %}
+

@@ -1,0 +1,21 @@
+{% extends 'StudyAppStudyAppBundle::layout.html.twig' %}
+{% block stylesheet %}
+{{ parent() }}
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/studyappstudyapp/css/bootstrap-glyphicons.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('bundles/studyappstudyapp/css/commentlist.css') }}">
+{% endblock %}
+
+{% block javascript %}
+{{ parent() }}
+<script>
+ 	var totalPages = '{{ pages_total }}';
+</script>	
+{% endblock %}
+
+{# block navbar #}{# endblock #}
+
+{% block body %}
+	{% include 'StudyAppStudyAppBundle:Default:article.html.twig' %}
+	{% include 'StudyAppCommentBundle:Default:list.html.twig' %}
+{% endblock %}
+

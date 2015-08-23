@@ -1,0 +1,5 @@
+parameters:
+    oauth:
+      facebook:
+        app_id: 933540580010631
+        app_secret: a9a6ff8a6fdd58f91777e7cd51b5523a

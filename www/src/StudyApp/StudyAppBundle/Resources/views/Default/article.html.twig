@@ -1,0 +1,16 @@
+<div class="jumbotron">
+<h1>Это пример приложения</h1>
+<p>Можно читать текст и оставлять комментарии. А можно не оставлять.
+</p>
+</div>
+{% if (fb_friends) %}
+<div class="fbook_friends">
+    <div class="fb_friends_title">Your Friends from Facebook already here!</div>
+    <div>&nbsp;</div>
+    <ul class="fb_friends">
+        {% for user in fb_friends %}
+            <li><a href="{{ user.link }}" target="_blank">{{ user.name }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}

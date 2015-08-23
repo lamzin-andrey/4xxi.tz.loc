@@ -1,0 +1,74 @@
+<div class="detailBoxWide">
+    <div class="actionBox">
+        <div class="bg-danger text-danger {% if not (has_errors) %}hide {% endif %}" id="errorsarea">
+            {{ form_errors(form) }}
+            {{ form_errors(form.body) }}
+        </div>
+        <ul class="commentListWide">
+            <li class="hide j-template">
+                <div class="commenterImage">
+                  <img src="{{ asset('bundles/studyappstudyapp/img/5.jpeg') }}" />
+                </div>
+                <div class="commentText">
+	                <div class="commentAuthor">
+	                    <p>
+	                    	<span class="uname">{user_name}</span>
+	                    	<a href="#" class="j-edit-comment" data-id="{id}"><span class="glyphicon glyphicon-pencil"></span></a>
+	                    </p>
+	                </div>
+                    <p class="j-body">{body}</p>
+                    <span class="date sub-text">Только что</span>
+                    <span class="sub-text sub-text-primary">
+                    	<span class="j-answer-info hide">
+                                   Ответов <span class="j-count_child"></span>
+                                   <a href="#" data-id="{id}" class="j-load-childs"><span class="glyphicon glyphicon-chevron-down"></span></a>
+                               </span>
+                               <a href="#" class="j-reply-comment" data-id="{id}">Ответить</a>
+                    </span>
+                </div>
+                <ul class="j-children"></ul>
+            </li>
+            {% if (count) %}
+            {% for comment in comments %}
+            <li style="display: list-item;" data-id="{{ comment.id }}">
+                <div class="commenterImage">
+                    <img src="{{ asset('bundles/studyappstudyapp/img/5.jpeg') }}">
+                </div>
+                <div class="commentText">
+                    <div class="commentAuthor">
+                        <p>
+                            <span class="uname">{{ comment.user.firstName }} {{ comment.user.lastName }}</span>
+                            <a href="#" class="j-edit-comment" data-id="{{ comment.id }}"><span class="glyphicon glyphicon-pencil"></span></a>
+                        </p>
+                    </div>
+                    <p class="j-body">{{ comment.body }}</p>
+                    <span class="date sub-text j-date">{{ comment.createdAt|localizeddate('none', 'none', null, 'Europe/Moscow', 'd MMMM YYYY в hh:mm') }}</span>
+                    <span class="sub-text sub-text-primary">
+                            <span class="j-answer-info{% if not (comment.countChild) %} hide{% endif %}">
+                               {%trans%}Answers{%endtrans%} <span class="j-count_child">{{ comment.countChild }}</span>
+                               <a href="#" data-id="{{ comment.id }}" class="j-load-childs"><span class="glyphicon glyphicon-chevron-down"></span></a>
+                           </span>
+                           <a href="#" class="j-reply-comment" data-id="{{ comment.id }}">{% trans %}Answer him{% endtrans %}</a>
+                    </span>
+                </div>
+                <ul class="j-children"></ul>
+            </li>
+            {% endfor %}
+            {% endif %}
+        </ul>
+        
+        <form class="form-inline w100" role="form" action="{{ path('study_app_comments_add') }}" method="POST" name="commentForm">
+            <div class="form-group w80">
+                {{ form_widget(form.parent_id, {"type" : "hidden", "id" : "parent_id" }) }}
+                {{ form_widget(form.id, {"type" : "hidden", "id" : "comment_id" }) }}
+                <input type="hidden" name="_method" value="POST" id="_method"/>
+                <input type="text" placeholder="{% trans %}Your comment{% endtrans %}" class="form-control" name="comment_type[body]" id="body" >
+            </div>
+            <div class="form-group w20">
+                {{ form_widget(form._token) }}                
+                <button class="btn btn-default" id="addComment">{% trans %}Add comment{% endtrans %}</button>
+            </div>
+        </form>
+        <div id="commentPaging"></div>
+    </div>
+</div>
