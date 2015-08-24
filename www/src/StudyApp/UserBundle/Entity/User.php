@@ -3,6 +3,7 @@
 namespace StudyApp\UserBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use StudyApp\StudyAppBundle\Entity\ActionsPortfel;
 use Symfony\Component\Validator\Constraints as Assert;
 use Symfony\Bridge\Doctrine\Validator\Constraints\UniqueEntity;
 use Symfony\Component\Security\Core\User\UserInterface;
@@ -89,9 +90,9 @@ class User implements UserInterface, EquatableInterface
      */
     private $activation_code;
     /**
-     * @ORM\OneToMany(targetEntity="StudyApp\CommentBundle\Entity\Comment", mappedBy="user")
+     * @ORM\OneToMany(targetEntity="StudyApp\StudyAppBundle\Entity\ActionPortfel", mappedBy="user")
      */
-    protected $comments;
+    protected $actions;
     /**
      * Get id
      *
@@ -366,5 +367,28 @@ class User implements UserInterface, EquatableInterface
     public function getComments()
     {
         return $this->comments;
+    }
+
+    /**
+     * @param ActionsPortfel
+     */
+    public function addActionsPortfel(ActionsPortfel $actions)
+    {
+        $this->actions[] = $actions;
+        return $this;
+    }
+    /**
+     * @param ActionsPortfel
+     */
+    public function removeActionsPortfel(ActionsPortfel $actions)
+    {
+        $this->comments->removeActionsPortfel($actions);
+    }
+    /**
+     * @return \Doctrine\Common\Collections\Collection
+     */
+    public function getActions()
+    {
+        return $this->actions;
     }
 }

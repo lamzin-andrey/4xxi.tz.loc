@@ -81,7 +81,7 @@ class Comment
     /**
      * @ORM\ManyToOne(targetEntity="StudyApp\UserBundle\Entity\User", inversedBy="comments")
      * @ORM\JoinColumn(name="user_id", referencedColumnName="id")
-     */
+    */
     private $user;
     /**
      * @var integer

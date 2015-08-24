@@ -2,308 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a4575-de2e-4504-8ceb-f6fd7d05c270" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooDailyParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="$PROJECT_DIR$/app/cache/prod/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#__construct.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#__construct.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#__construct.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#__construct.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#cronAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#cronAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#cronAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#cronAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/574b461ea0a21e3652ea448711c486ed246acbd3.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/574b461ea0a21e3652ea448711c486ed246acbd3.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getParameter.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getParameter.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getParameter.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getParameter.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$activation_code.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$activation_code.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$activation_code.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$activation_code.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$comments.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$comments.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$comments.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$comments.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$email.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$email.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email_is_verify.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email_is_verify.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$email_is_verify.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$email_is_verify.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$first_name.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$first_name.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$first_name.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$first_name.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$last_name.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$last_name.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$last_name.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$last_name.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$password.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$password.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$password.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$password.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$role.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$role.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$role.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$role.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$username.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$username.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$username.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a$username.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/681d96098e3a497f929010b71496318c70c0df6a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ce865e552569a58080e9934a59faa24754a037a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ce865e552569a58080e9934a59faa24754a037a$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$string_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$string_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ce865e552569a58080e9934a59faa24754a037a$string_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ce865e552569a58080e9934a59faa24754a037a$string_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ce865e552569a58080e9934a59faa24754a037a.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ce865e552569a58080e9934a59faa24754a037a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_user_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_user_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$user_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$user_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/881e2ec68af8fe4dc51013b31dabea7813f8256a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/881e2ec68af8fe4dc51013b31dabea7813f8256a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/881e2ec68af8fe4dc51013b31dabea7813f8256a.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/881e2ec68af8fe4dc51013b31dabea7813f8256a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php" afterPath="$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppCommentBundleEntityComment.php" afterPath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppCommentBundleEntityComment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppCommentBundleEntityComment.php" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppCommentBundleEntityComment.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthService.php" afterPath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthService.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthService.php" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthService.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthUser.php" afterPath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthUser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthUser.php" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthUser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppUserBundleEntityUser.php" afterPath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppUserBundleEntityUser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppUserBundleEntityUser.php" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/orm/Proxies/__CG__StudyAppUserBundleEntityUser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#_activationCode.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#_activationCode.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#_activationCode.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#_activationCode.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#createAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#createAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#createAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#createAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailConfirmAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailConfirmAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailConfirmAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailConfirmAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailSendedAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailSendedAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailSendedAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailSendedAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#loginAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#loginAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#loginAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#loginAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#signupAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#signupAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#signupAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#signupAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a09d41d527692a26be412d90439a60681aa45adc#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a09d41d527692a26be412d90439a60681aa45adc#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a09d41d527692a26be412d90439a60681aa45adc#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a09d41d527692a26be412d90439a60681aa45adc#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a09d41d527692a26be412d90439a60681aa45adc.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a09d41d527692a26be412d90439a60681aa45adc.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a09d41d527692a26be412d90439a60681aa45adc.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a09d41d527692a26be412d90439a60681aa45adc.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="$PROJECT_DIR$/app/cache/prod/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/appProdProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/prod/appProdProjectContainer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/appProdUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/prod/appProdUrlGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/appProdUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/prod/appProdUrlMatcher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_getResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_getResourceUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_getResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_getResourceUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_json.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_json.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_json.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_json.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_prepareAjaxError.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_prepareAjaxError.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_prepareAjaxError.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_prepareAjaxError.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentChildsAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentChildsAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentChildsAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentChildsAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#createAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#createAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#createAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#createAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#indexAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#indexAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#pageAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#pageAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#pageAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#pageAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#updateAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#updateAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#updateAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#updateAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/c254057751ed092f431201a28eb49ed5e8d4c105.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.af.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.af.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ar.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ar.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.az.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.az.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.bg.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.bg.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ca.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ca.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.cs.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.cs.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.cy.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.cy.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.da.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.da.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.de.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.de.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.el.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.el.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.es.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.es.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.et.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.et.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.eu.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.eu.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.fa.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.fa.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.fi.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.fi.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.fr.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.fr.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.gl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.gl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.he.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.he.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.hr.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.hr.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.hu.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.hu.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.hy.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.hy.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.id.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.id.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.it.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.it.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ja.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ja.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.lb.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.lb.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.lt.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.lt.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.lv.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.lv.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.mn.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.mn.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.nb.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.nb.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.nl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.nl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.no.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.no.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.pl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.pl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.pt_BR.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.pt_BR.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.pt_PT.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.pt_PT.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ro.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ro.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ru.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ru.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sk.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sk.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sq.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sq.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sr_Cyrl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sr_Cyrl.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sr_Latn.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sr_Latn.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sv.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.sv.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.th.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.th.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.tr.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.tr.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ua.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.ua.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.uk.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.uk.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.vi.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.vi.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.zh_CN.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.zh_CN.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.zh_TW.1cd7e874b24ab41081c7781e4161053bf515fc91.php" afterPath="$PROJECT_DIR$/app/cache/prod/translations/catalogue.zh_TW.1cd7e874b24ab41081c7781e4161053bf515fc91.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/classes.map" afterPath="$PROJECT_DIR$/app/cache/prod/classes.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php" afterPath="$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" afterPath="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_fbookLoginOrRegister.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_fbookLoginOrRegister.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_fbookLoginOrRegister.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_fbookLoginOrRegister.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_getFacebookServiceId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_getFacebookServiceId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_getFacebookServiceId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_getFacebookServiceId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_loadUserFbookFriends.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_loadUserFbookFriends.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_loadUserFbookFriends.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_loadUserFbookFriends.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerUserFromFacebookData.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerUserFromFacebookData.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerUserFromFacebookData.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerUserFromFacebookData.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerWebService.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerWebService.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerWebService.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerWebService.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#facebookLoginAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#facebookLoginAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#facebookLoginAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#facebookLoginAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#changeProfileAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#changeProfileAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#changeProfileAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#changeProfileAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#profileAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#profileAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#profileAction.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#profileAction.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#asArray.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#asArray.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#asArray.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#asArray.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getBody.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getBody.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getBody.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getBody.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCountChild.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCountChild.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCountChild.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCountChild.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCreatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCreatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getParentId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getParentId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getParentId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getParentId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getPath.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getPath.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getPath.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getPath.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getResourceUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getResourceUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUpdatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUpdatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUpdatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUpdatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUser.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUser.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUserId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUserId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUserId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUserId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#initCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#initCreatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#initCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#initCreatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#preUpdate.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#preUpdate.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#preUpdate.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#preUpdate.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setBody.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setBody.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setBody.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setBody.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCountChild.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCountChild.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCountChild.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCountChild.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCreatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCreatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setParentId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setParentId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setParentId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setParentId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setPath.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setPath.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setPath.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setPath.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setResourceUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setResourceUrl.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUpdatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUpdatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUpdatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUpdatedAt.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUser.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUser.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUserId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUserId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUserId.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUserId.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$body.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$body.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$body.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$body.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$count_child.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$count_child.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$count_child.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$count_child.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$created_at.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$created_at.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$created_at.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$created_at.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$parent_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$parent_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$parent_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$parent_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$path.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$path.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$path.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$path.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$resource_url.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$resource_url.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$resource_url.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$resource_url.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$updated_at.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$updated_at.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$updated_at.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$updated_at.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user_id.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a.cache.php" afterPath="$PROJECT_DIR$/app/cache/prod/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/prod.log" afterPath="$PROJECT_DIR$/app/logs/prod.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/templates.php" afterPath="$PROJECT_DIR$/app/cache/dev/templates.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/templates.php" afterPath="$PROJECT_DIR$/app/cache/prod/templates.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
@@ -326,12 +27,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="68.65385">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7267857">
+              <caret line="391" column="30" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="159.57692">
+              <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+              <folding>
+                <element signature="e#49#81#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -339,7 +52,7 @@
       <file leaf-file-name="CurlRequest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/CurlRequest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
+            <state vertical-scroll-proportion="0.0">
               <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
               <folding />
             </state>
@@ -349,7 +62,7 @@
       <file leaf-file-name="cron_script.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/cron_script.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="e#6#55#0#PHP" expanded="true" />
@@ -361,7 +74,7 @@
       <file leaf-file-name="CronController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
+            <state vertical-scroll-proportion="0.0">
               <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="e#48#95#0#PHP" expanded="true" />
@@ -370,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YahooParser.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="YahooParser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.773913">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
               <folding>
                 <element signature="e#94#136#0#PHP" expanded="true" />
@@ -385,10 +98,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ActionsPortfel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/ActionsPortfel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.692307">
+              <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="YahooDailyParser.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooDailyParser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding>
                 <element signature="e#44#86#0#PHP" expanded="true" />
@@ -400,7 +123,7 @@
       <file leaf-file-name="ResultSetMapping.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/doctrine/orm/lib/Doctrine/ORM/Query/ResultSetMapping.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538">
+            <state vertical-scroll-proportion="0.0">
               <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
               <folding />
             </state>
@@ -410,7 +133,7 @@
       <file leaf-file-name="Statistic.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/Statistic.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65384614">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
@@ -435,6 +158,9 @@
         <option value="$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooDailyParser.php" />
         <option value="$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php" />
         <option value="$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php" />
+        <option value="$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/ActionsPortfel.php" />
+        <option value="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php" />
       </list>
     </option>
   </component>
@@ -477,7 +203,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -525,6 +251,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="StudyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -593,8 +349,26 @@
               <option name="myItemId" value="StudyApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CronBundle" />
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudyApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommentBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -616,11 +390,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CronBundle" />
+              <option name="myItemId" value="CommentBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Utils" />
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -640,7 +414,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -702,22 +476,22 @@
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11745514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="7.320644E-4" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19249593" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11745514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="7.320644E-4" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -736,6 +510,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/CurlRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/cron_script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#6#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <element signature="e#48#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+          <folding>
+            <element signature="e#94#136#0#PHP" expanded="true" />
+            <marker date="1440337822413" expanded="true" signature="3206:3336" placeholder="SELECT s._ti..." />
+            <marker date="1440337822413" expanded="true" signature="6487:6621" placeholder="INSERT INTO ..." />
+            <marker date="1440337822413" expanded="true" signature="6622:6642" placeholder="UPDATE chart..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooDailyParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="e#44#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/orm/lib/Doctrine/ORM/Query/ResultSetMapping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -798,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -833,19 +673,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="68.65385">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -853,21 +684,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/Statistic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65384614">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/doctrine/orm/lib/Doctrine/ORM/Query/ResultSetMapping.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
@@ -875,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/cron_script.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#6#55#0#PHP" expanded="true" />
@@ -885,7 +707,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/CurlRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
+        <state vertical-scroll-proportion="0.0">
           <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
           <folding />
         </state>
@@ -893,7 +715,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooDailyParser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
           <folding>
             <element signature="e#44#86#0#PHP" expanded="true" />
@@ -903,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="e#48#95#0#PHP" expanded="true" />
@@ -913,7 +735,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.773913">
+        <state vertical-scroll-proportion="0.0">
           <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
           <folding>
             <element signature="e#94#136#0#PHP" expanded="true" />
@@ -921,6 +743,40 @@
             <marker date="1440337822413" expanded="true" signature="6487:6621" placeholder="INSERT INTO ..." />
             <marker date="1440337822413" expanded="true" signature="6622:6642" placeholder="UPDATE chart..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/Statistic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/ActionsPortfel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.692307">
+          <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="159.57692">
+          <caret line="83" column="6" selection-start-line="83" selection-start-column="6" selection-end-line="83" selection-end-column="6" />
+          <folding>
+            <element signature="e#49#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7267857">
+          <caret line="391" column="30" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
