@@ -90,7 +90,7 @@ class User implements UserInterface, EquatableInterface
      */
     private $activation_code;
     /**
-     * @ORM\OneToMany(targetEntity="StudyApp\StudyAppBundle\Entity\ActionPortfel", mappedBy="user")
+     * @ORM\OneToMany(targetEntity="StudyApp\StudyAppBundle\Entity\ActionsPortfel", mappedBy="user")
      */
     protected $actions;
     /**

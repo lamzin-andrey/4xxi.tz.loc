@@ -11,5 +11,14 @@ parameters:
     mailer_password: null
     secret: c08527dc7d512901f9816f3d8ffdb9fc6678c019
 imports:
-    - {resource: '@StudyAppSecurityBundle/Resources/config/parameters.yml'}
-    - {resource: '@StudyAppOAuthBundle/Resources/config/parameters.yml'}
+    -
+        resource: '@StudyAppSecurityBundle/Resources/config/parameters.yml'
+    -
+        resource: '@StudyAppOAuthBundle/Resources/config/parameters.yml'
+
+
+doctrine_migrations:
+    dir_name: "%kernel.root_dir%/DoctrineMigrations"
+    namespace: Application\Migrations
+    table_name: migration_versions
+    name: Application Migrations

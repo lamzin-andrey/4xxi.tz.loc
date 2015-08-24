@@ -64,10 +64,10 @@ class User extends \StudyApp\UserBundle\Entity\User implements \Doctrine\ORM\Pro
     public function __sleep()
     {
         if ($this->__isInitialized__) {
-            return array('__isInitialized__', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'id', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'username', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'password', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'first_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'last_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'role', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email_is_verify', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'activation_code', 'comments');
+            return array('__isInitialized__', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'id', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'username', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'password', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'first_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'last_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'role', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email_is_verify', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'activation_code', 'actions');
         }
 
-        return array('__isInitialized__', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'id', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'username', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'password', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'first_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'last_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'role', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email_is_verify', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'activation_code', 'comments');
+        return array('__isInitialized__', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'id', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'username', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'password', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'first_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'last_name', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'role', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'email_is_verify', '' . "\0" . 'StudyApp\\UserBundle\\Entity\\User' . "\0" . 'activation_code', 'actions');
     }
 
     /**
@@ -439,6 +439,39 @@ class User extends \StudyApp\UserBundle\Entity\User implements \Doctrine\ORM\Pro
         $this->__initializer__ && $this->__initializer__->__invoke($this, 'getComments', array());
 
         return parent::getComments();
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function addActionsPortfel(\StudyApp\StudyAppBundle\Entity\ActionsPortfel $actions)
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'addActionsPortfel', array($actions));
+
+        return parent::addActionsPortfel($actions);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function removeActionsPortfel(\StudyApp\StudyAppBundle\Entity\ActionsPortfel $actions)
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'removeActionsPortfel', array($actions));
+
+        return parent::removeActionsPortfel($actions);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function getActions()
+    {
+
+        $this->__initializer__ && $this->__initializer__->__invoke($this, 'getActions', array());
+
+        return parent::getActions();
     }
 
 }

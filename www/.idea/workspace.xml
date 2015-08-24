@@ -2,9 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="962a4575-de2e-4504-8ceb-f6fd7d05c270" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php" afterPath="$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#__construct.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3#cronAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/574b461ea0a21e3652ea448711c486ed246acbd3.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getParameter.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$comments.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#_activationCode.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailConfirmAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#emailSendedAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#loginAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4#signupAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a02bd03919d7a870e84b92550dc4db44cc9bd1d4.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a09d41d527692a26be412d90439a60681aa45adc#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a09d41d527692a26be412d90439a60681aa45adc.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a35cefd86f86b0ab9a2d6605d653d20cb0ce474e.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_getResourceUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_json.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#_prepareAjaxError.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#commentChildsAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#createAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#pageAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105#updateAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c254057751ed092f431201a28eb49ed5e8d4c105.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_fbookLoginOrRegister.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_getFacebookServiceId.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_loadUserFbookFriends.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerUserFromFacebookData.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#_registerWebService.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9#facebookLoginAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e5e53a8488235d01832c7ba151ba0fc9032892e9.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#changeProfileAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248#profileAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e63de9a16c612d502b53977b4f89ccabcbd20248.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevProjectContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppCommentBundleEntityComment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthService.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppOAuthBundleEntityOauthUser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__StudyAppUserBundleEntityUser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/cache/dev/templates.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$activation_code.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$activation_code.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email_is_verify.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$email_is_verify.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$first_name.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$first_name.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$last_name.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$last_name.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$password.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$password.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$role.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$role.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$username.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a$username.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/681d96098e3a497f929010b71496318c70c0df6a.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$string_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a$string_id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ce865e552569a58080e9934a59faa24754a037a.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$oauth_service_user_id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408$user_id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/6ffc95e5ae2667e0c6c20e761c3c0918ed763408.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/881e2ec68af8fe4dc51013b31dabea7813f8256a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/881e2ec68af8fe4dc51013b31dabea7813f8256a.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" afterPath="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/bootstrap.php.cache" afterPath="$PROJECT_DIR$/app/bootstrap.php.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#asArray.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#asArray.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getBody.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getBody.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCountChild.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCountChild.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getCreatedAt.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getId.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getParentId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getParentId.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getPath.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getPath.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getResourceUrl.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUpdatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUpdatedAt.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUser.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUserId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#getUserId.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#initCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#initCreatedAt.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#preUpdate.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#preUpdate.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setBody.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setBody.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCountChild.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCountChild.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCreatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setCreatedAt.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setId.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setParentId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setParentId.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setPath.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setPath.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setResourceUrl.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setResourceUrl.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUpdatedAt.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUpdatedAt.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUser.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUser.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUserId.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a#setUserId.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$body.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$body.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$count_child.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$count_child.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$created_at.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$created_at.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$parent_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$parent_id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$path.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$path.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$resource_url.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$resource_url.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$updated_at.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$updated_at.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user_id.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a$user_id.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a.cache.php" afterPath="$PROJECT_DIR$/app/cache/dev/annotations/ec2f750fdc425bf017b0853f94a6af30a035a06a.cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
@@ -27,12 +157,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7267857">
-              <caret line="391" column="30" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="100" column="27" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="27" />
+              <folding>
+                <element signature="e#46#78#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.538462">
+              <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Version20150824213214.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/DoctrineMigrations/Version20150824213214.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1538463">
+              <caret line="21" column="28" selection-start-line="14" selection-start-column="1" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#53#0#PHP" expanded="true" />
+                <element signature="e#90#137#0#PHP" expanded="true" />
+                <marker date="1440445448443" expanded="true" signature="535:596" placeholder="INSERT INTO ..." />
+                <marker date="1440445448443" expanded="true" signature="535:597" placeholder="INSERT INTO ..." />
+                <marker date="1440445448443" expanded="true" signature="624:691" placeholder="INSERT INTO ..." />
+                <marker date="1440445448443" expanded="true" signature="718:778" placeholder="INSERT INTO ..." />
+                <marker date="1440445448443" expanded="true" signature="805:873" placeholder="INSERT INTO ..." />
+                <marker date="1440445448443" expanded="true" signature="900:965" placeholder="INSERT INTO ..." />
+                <marker date="1440445448443" expanded="true" signature="1105:1119" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Version20150824215746.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/DoctrineMigrations/Version20150824215746.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.51428574">
+              <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+              <folding>
+                <marker date="1440446451263" expanded="true" signature="487:549" placeholder="INSERT INTO ..." />
+                <marker date="1440446451263" expanded="true" signature="576:643" placeholder="INSERT INTO ..." />
+                <marker date="1440446451263" expanded="true" signature="670:730" placeholder="INSERT INTO ..." />
+                <marker date="1440446451263" expanded="true" signature="757:825" placeholder="INSERT INTO ..." />
+                <marker date="1440446451263" expanded="true" signature="852:917" placeholder="INSERT INTO ..." />
+                <marker date="1440446451263" expanded="true" signature="944:983" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Version20150824215528.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/DoctrineMigrations/Version20150824215528.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+              <folding>
+                <marker date="1440446180419" expanded="true" signature="488:550" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,50 +250,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurlRequest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/CurlRequest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cron_script.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/cron_script.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="e#6#55#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CronController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state vertical-scroll-proportion="-16.346153">
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
               <folding>
                 <element signature="e#48#95#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YahooParser.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-              <folding>
-                <element signature="e#94#136#0#PHP" expanded="true" />
-                <marker date="1440337822413" expanded="true" signature="3206:3336" placeholder="SELECT s._ti..." />
-                <marker date="1440337822413" expanded="true" signature="6487:6621" placeholder="INSERT INTO ..." />
-                <marker date="1440337822413" expanded="true" signature="6622:6642" placeholder="UPDATE chart..." />
               </folding>
             </state>
           </provider>
@@ -103,28 +267,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-13.692307">
               <caret line="168" column="5" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YahooDailyParser.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooDailyParser.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-              <folding>
-                <element signature="e#44#86#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResultSetMapping.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/doctrine/orm/lib/Doctrine/ORM/Query/ResultSetMapping.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -150,7 +292,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/Statistic.php" />
         <option value="$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/CurlRequest.php" />
@@ -159,8 +300,13 @@
         <option value="$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php" />
         <option value="$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php" />
         <option value="$PROJECT_DIR$/src/StudyApp/StudyAppBundle/Entity/ActionsPortfel.php" />
-        <option value="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" />
         <option value="$PROJECT_DIR$/src/StudyApp/CommentBundle/Entity/Comment.php" />
+        <option value="$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/app/DoctrineMigrations/Version20150824213214.php" />
+        <option value="$PROJECT_DIR$/app/DoctrineMigrations/Version20150824215528.php" />
+        <option value="$PROJECT_DIR$/app/DoctrineMigrations/Version20150824215746.php" />
       </list>
     </option>
   </component>
@@ -232,7 +378,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,88 +393,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudyApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudyApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudyApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudyAppBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudyApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="StudyAppBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -368,7 +432,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommentBundle" />
+              <option name="myItemId" value="CronBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -390,11 +454,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommentBundle" />
+              <option name="myItemId" value="CronBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Entity" />
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -409,6 +473,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DoctrineMigrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -514,7 +610,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -552,9 +650,9 @@
           <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
           <folding>
             <element signature="e#94#136#0#PHP" expanded="true" />
-            <marker date="1440337822413" expanded="true" signature="3206:3336" placeholder="SELECT s._ti..." />
-            <marker date="1440337822413" expanded="true" signature="6487:6621" placeholder="INSERT INTO ..." />
-            <marker date="1440337822413" expanded="true" signature="6622:6642" placeholder="UPDATE chart..." />
+            <marker date="1440337822413" expanded="true" signature="-1:-1" placeholder="SELECT s._ti..." />
+            <marker date="1440337822413" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1440337822413" expanded="true" signature="-1:-1" placeholder="UPDATE chart..." />
           </folding>
         </state>
       </provider>
@@ -581,7 +679,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -652,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18214285">
@@ -723,25 +816,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <element signature="e#48#95#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Utils/YahooParser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
           <folding>
             <element signature="e#94#136#0#PHP" expanded="true" />
-            <marker date="1440337822413" expanded="true" signature="3206:3336" placeholder="SELECT s._ti..." />
-            <marker date="1440337822413" expanded="true" signature="6487:6621" placeholder="INSERT INTO ..." />
-            <marker date="1440337822413" expanded="true" signature="6622:6642" placeholder="UPDATE chart..." />
+            <marker date="1440337822413" expanded="true" signature="-1:-1" placeholder="SELECT s._ti..." />
+            <marker date="1440337822413" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1440337822413" expanded="true" signature="-1:-1" placeholder="UPDATE chart..." />
           </folding>
         </state>
       </provider>
@@ -774,9 +857,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StudyApp/UserBundle/Entity/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7267857">
-          <caret line="391" column="30" selection-start-line="391" selection-start-column="30" selection-end-line="391" selection-end-column="30" />
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="100" column="27" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="27" />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.538462">
+          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudyApp/CronBundle/Controller/CronController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding>
+            <element signature="e#48#95#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/DoctrineMigrations/Version20150824213214.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1538463">
+          <caret line="21" column="28" selection-start-line="14" selection-start-column="1" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#53#0#PHP" expanded="true" />
+            <element signature="e#90#137#0#PHP" expanded="true" />
+            <marker date="1440445448443" expanded="true" signature="535:596" placeholder="INSERT INTO ..." />
+            <marker date="1440445448443" expanded="true" signature="535:597" placeholder="INSERT INTO ..." />
+            <marker date="1440445448443" expanded="true" signature="624:691" placeholder="INSERT INTO ..." />
+            <marker date="1440445448443" expanded="true" signature="718:778" placeholder="INSERT INTO ..." />
+            <marker date="1440445448443" expanded="true" signature="805:873" placeholder="INSERT INTO ..." />
+            <marker date="1440445448443" expanded="true" signature="900:965" placeholder="INSERT INTO ..." />
+            <marker date="1440445448443" expanded="true" signature="1105:1119" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/DoctrineMigrations/Version20150824215528.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+          <folding>
+            <marker date="1440446180419" expanded="true" signature="488:550" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/DoctrineMigrations/Version20150824215746.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51428574">
+          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+          <folding>
+            <marker date="1440446451263" expanded="true" signature="487:549" placeholder="INSERT INTO ..." />
+            <marker date="1440446451263" expanded="true" signature="576:643" placeholder="INSERT INTO ..." />
+            <marker date="1440446451263" expanded="true" signature="670:730" placeholder="INSERT INTO ..." />
+            <marker date="1440446451263" expanded="true" signature="757:825" placeholder="INSERT INTO ..." />
+            <marker date="1440446451263" expanded="true" signature="852:917" placeholder="INSERT INTO ..." />
+            <marker date="1440446451263" expanded="true" signature="944:983" placeholder="DELETE FROM ..." />
+          </folding>
         </state>
       </provider>
     </entry>

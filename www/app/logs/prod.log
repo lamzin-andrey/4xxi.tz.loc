@@ -11,3 +11,6 @@
 [2015-08-23 14:49:02] request.INFO: Matched route "studyapp_cron_cron_cron". {"route_parameters":{"_controller":"StudyApp\\CronBundle\\Controller\\CronController::cronAction","_route":"studyapp_cron_cron_cron"},"request_uri":"http://4xxi.tz.loc/cron"} []
 [2015-08-23 14:49:02] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
 [2015-08-23 14:49:06] request.CRITICAL: Uncaught PHP Exception Doctrine\ORM\NonUniqueResultException: "" at /opt/lampp/htdocs/4xxi.tz.loc/www/vendor/doctrine/orm/lib/Doctrine/ORM/AbstractQuery.php line 657 {"exception":"[object] (Doctrine\\ORM\\NonUniqueResultException(code: 0):  at /opt/lampp/htdocs/4xxi.tz.loc/www/vendor/doctrine/orm/lib/Doctrine/ORM/AbstractQuery.php:657)"} []
+[2015-08-24 22:06:42] request.INFO: Matched route "study_app_user_create". {"route_parameters":{"_controller":"StudyApp\\SecurityBundle\\Controller\\DefaultController::createAction","_route":"study_app_user_create"},"request_uri":"http://4xxi.tz.loc/user/create"} []
+[2015-08-24 22:06:42] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2015-08-24 22:06:47] app.ERROR: Exception occurred while flushing email queue: Failed to authenticate on SMTP server with username "lamzin.an@gmail.com" using 1 possible authenticators [] []
