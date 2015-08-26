@@ -98,6 +98,21 @@ class User implements UserInterface, EquatableInterface
      *
      * @return integer 
      */
+
+    /**
+     * @var balance
+     *
+     * @ORM\Column(name="balance", type="decimal", length=12, scale=2)
+    */
+    private $balance;
+
+    /**
+     * @var currency
+     *
+     * @ORM\Column(name="currency", type="integer", length=11)
+    */
+    private $currency_id;
+
     public function getId()
     {
         return $this->id;
@@ -391,4 +406,48 @@ class User implements UserInterface, EquatableInterface
     {
         return $this->actions;
     }
+    /**
+     * Set balance
+     *
+     * @param double $balance
+     * @return User
+     */
+    public function setBalance($balance)
+    {
+        $this->balance = $balance;
+
+        return $this;
+    }
+
+    /**
+     * Get balance
+     *
+     * @return double
+     */
+    public function getBalance()
+    {
+        return $this->balance;
+    }
+    /**
+     * Set currency
+     *
+     * @param integer $currency
+     * @return User
+     */
+    public function setCurrency($currency_id)
+    {
+        $this->currency_id = $currency_id;
+        return $this;
+    }
+
+    /**
+     * Get currency_id
+     * @return integer
+     */
+    public function getCurrency()
+    {
+        return $this->currency_id;
+    }
+
+
 }
