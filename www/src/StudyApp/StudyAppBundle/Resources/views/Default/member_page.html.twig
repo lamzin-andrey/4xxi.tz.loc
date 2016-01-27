@@ -15,7 +15,11 @@
 {# block navbar #}{# endblock #}
 
 {% block body %}
-	{% include 'StudyAppStudyAppBundle:Default:article.html.twig' %}
-	{% include 'StudyAppCommentBundle:Default:list.html.twig' %}
+	{% if (template == 'main') %}
+		{% include 'StudyAppCommentBundle:Default:list.html.twig' %}
+	{% else %}
+		{% include 'StudyAppStudyAppBundle:Default:article.html.twig' %}
+		{% include 'StudyAppStudyAppBundle:Default:' + template + '.html.twig' %}
+	{% endif %}
 {% endblock %}
 
